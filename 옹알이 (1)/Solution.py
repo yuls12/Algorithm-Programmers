@@ -5,7 +5,7 @@ def solution(babbling):
     word = ["aya","ye","woo","ma"]
     new_word = []
     
-    for i in range(1, len(speek)+1):
+    for i in range(1, 5):
         for k in permutations(word, i):
             new_word.append(''.join(k))
 
