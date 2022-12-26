@@ -1,6 +1,6 @@
 # Algorithm-Programmers
 
-![programmers](https://user-images.githubusercontent.com/69426184/209517270-f8d5694e-ff56-442e-beff-9eff454d9185.png)
+![programmers](https://user-images.githubusercontent.com/69426184/209522163-480bba6b-3c37-4ae9-b667-7564285110bb.png)
 
 <br/>
 
