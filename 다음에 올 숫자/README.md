@@ -1,6 +1,6 @@
 # 다음에 올 숫자
 
-[![programmers](https://user-images.githubusercontent.com/69426184/209517270-f8d5694e-ff56-442e-beff-9eff454d9185.png)](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
+[![programmers](https://user-images.githubusercontent.com/69426184/209521593-1cd0b201-6562-4bdb-9e24-a4822cd3be75.png)](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
 
 <br/>
 
