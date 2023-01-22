@@ -28,7 +28,7 @@
 
 이 경우 상빈이는 총 10 + 5 + 2 + 1 + 1 = 19병의 콜라를 받을 수 있습니다.
 
-image6.PNG
+![programmers](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/95ce1c11-2f21-4248-8bfc-e330299cbb9a/image6.PNG)
 
 문제를 열심히 풀던 상빈이는 일반화된 콜라 문제를 생각했습니다.
 
