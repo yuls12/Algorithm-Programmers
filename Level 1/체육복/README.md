@@ -1,4 +1,4 @@
-# 햄버거 만들기
+# 체육복
 
 [![programmers](https://user-images.githubusercontent.com/69426184/209522553-bab40080-50ba-4743-86a3-f6198bff3974.png)](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 
@@ -28,8 +28,8 @@
 | n   | lost       | reserve   | return |
 | --- | ---------- | --------- | ------ |
 | 5   | [2, 4]     | [1, 3, 5] | 5      |
-| 5   | [2, 4] [3] | 4         |
-| 3   | [3] [1]    | 2         |
+| 5   | [2, 4] | [3] | 4         |
+| 3   | [3] |[1]    | 2         |
 
 <br/>
 
